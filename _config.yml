@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Mar Espadafor"
+title                    : "Sergi Martínez"
 title_separator          : "-"
-name                     : &name "Mar Espadafor"
+name                     : &name "Sergi Martínez"
 description              : &description "PhD Candidate at the European University Institute (Florence, Italy)"
-url                      : https://marespadafor.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://sergi-martinez.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "marespadafor/marespadafor.github.io"
+repository               : "sergi-martinez/sergi-martinez.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Mar Espadafor"
-  avatar           : "me1.png"
-  bio              : "Quantitative Sociologist."
+  name             : "Sergi Martinez"
+  avatar           : "profile.png"
+  bio              : "Political Science"
   location         : "Florence, Italy"
   employer         :
-  googlescholar    : "https://scholar.google.com/scholar?hl=es&as_sdt=0%2C5&q=Mar+Espadafor&btnG=&oq=Mar+"
-  email            : "maria.canizares@eui.eu"
+  googlescholar    : #""
+  email            : "sergi.martinez@eui.eu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -95,7 +95,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "marespadafor"
+  github           : "sergi-martinez"
   google_plus      :
   keybase          :
   instagram        :
@@ -108,7 +108,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "@marespadafor"
+  twitter          : "@sergisme"
   vine             :
   weibo            :
   xing             :
