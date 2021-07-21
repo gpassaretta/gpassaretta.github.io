@@ -16,4 +16,4 @@ Giampiero Passaretta is a Research Fellow at the European University Institute. 
 
 His reserarch interests include education and labor market inequalities, comparative sociology and quantitative methods of data analysis.
 
-Passaretta's works have been published in academic journals like American Sociological Review, Social Forces, and Socio-Economic Review. His recent research on the evolution of socioeconomic inequality in children's achievement has been featured in major outlets like Die Zeit. 
+Passaretta's works have been published in academic journals like *American Sociological Review*, *Social Forces*, and *Socio-Economic Review*. His recent research on the evolution of socioeconomic inequality in children's achievement has been featured in major press outlets, like *Die Zeit*. 
