@@ -1,9 +1,10 @@
+
 ---
+layout: archive
 title: "Replication files"
 permalink: /replicationfiles/
 author_profile: true
 ---
-
         
 {% include base_path %}
 
