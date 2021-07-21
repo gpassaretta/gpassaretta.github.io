@@ -6,4 +6,4 @@ author_profile: true
 ---
 Department of Political and Social Sciences, European University Institute<br>
 Via dei Roccettini, 9, I-50014 San Domenico di Fiesole (FI)<br>
-Email: sergi [dot] martinez [at] eui [dot] eu
+Email: giampiero [dot] passaretta [at] eui [dot] eu
