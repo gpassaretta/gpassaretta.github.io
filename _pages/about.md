@@ -9,13 +9,11 @@ redirect_from:
 ---
 
 
-Short bio:
+About
 ======
 
-Giampiero Passaretta obtained a PhD in Sociology and Social Research from the University of Trento (Italy) in 2017. From 2017 to 2019 he was Postdoctoral Researcher at the Trinity College Dublin (Ireland), where he contributed to a large comparative H2020 project (ISOTIS) concerned with inequalities in educational achievements. In 2018, he was awarded for the best doctoral dissertation from the Department of Sociology at the University of Trento. He is a member of the Centre for Social Inequality Studies (CSIS) at the University of Trento and the Trinity Research in Childhood Centre (TRICC) at the Trinity College Dublin.
+Giampiero Passaretta is a Research Fellow at the European University Institute. After gaining his PhD from the University of Trento (Itay), he has worked as Postdoctoral Researcher at the Trinity College Dublin (Ireland). He is a member of the Centre for Social Inequality Studies (CSIS) at the University of Trento, the Trinity Research in Childhood Centre (TRICC) at the Trinity College Dublin, and the Comparative Life Course & Inequality research Centre (CLIC) at the European University Institute. 
 
-Research themes:
-======
+His reserarch interests include education and labor market inequalities, comparative sociology and quantitative methods of data analysis.
 
-His research interests include education and labour market inequalities, comparative sociology and quantitative methods of data analysis. Giampiero’s current research focuses on the causal effect of schooling on social inequality in educational achievements in a comparative and longitudinal perspective. 
-
+Passaretta's works have been published in academic journals like American Sociological Review, Social Forces, and Socio-Economic Review. His recent research on the evolution of socioeconomic inequality in children's achievement has been featured in major outlets like Die Zeit. 
