@@ -84,7 +84,7 @@ author:
   avatar           : "profile.png"
   bio              : "Social Scientist"
   location         : "Florence, Italy"
-  employer         : "European University Institute"
+  employer         :
   googlescholar    : #""
   email            : "giampiero.passaretta@eui.eu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
