@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Giampiero Passaretta"
 title_separator          : "-"
-name                     : &name "Giampierooooo Passaretta"
+name                     : &name "Giampiero Passaretta"
 description              : &description "Research Fellow at the European University Institute (Florence, Italy)"
 url                      : https://gpassaretta.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Giampiero Passaretta"
   avatar           : "profile.png"
-  bio              : "Sociologist"
+  bio              : "Social Scientist"
   location         : "Florence, Italy"
   employer         :
   googlescholar    : #""
