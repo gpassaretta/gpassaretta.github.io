@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Giampierodd Passaretta"
+title                    : "Giampiero Passaretta"
 title_separator          : "-"
-name                     : &name "Giampiero Passaretta"
+name                     : &name "Giampierooooo Passaretta"
 description              : &description "Research Fellow at the European University Institute (Florence, Italy)"
 url                      : https://gpassaretta.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
