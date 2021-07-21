@@ -84,7 +84,7 @@ author:
   avatar           : "profile.png"
   bio              : "Social Scientist"
   location         : "Florence, Italy"
-  employer         :
+  employer         : "European University Institute"
   googlescholar    : #""
   email            : "giampiero.passaretta@eui.eu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -102,7 +102,7 @@ author:
   impactstory      : 
   lastfm           :
   linkedin         :
-  orcid            : 
+  orcid            : "https://orcid.org/0000-0003-1706-1216"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
