@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-[See my CV here](http://gpassaretta.github.io/files/YOURNAME.pdf) 
+[See my CV here](http://gpassaretta.github.io/files/Passaretta_CV.pdf) 
