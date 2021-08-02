@@ -12,6 +12,7 @@ Passaretta G, Skopek J. Does Schooling Decrease Socioeconomic Inequality in Earl
 Skopek J, Passaretta G. Socioeconomic Inequality in Children's Achievement from Infancy to Adolescence: The Case of Germany.  In [_Social Forces_](https://academic.oup.com/sf/article/100/1/86/5924408?login=true).
 ## 2018
 Passaretta G, Triventi G, Trivellato P. Between academia and labour market – the occupational outcomes of PhD graduates in a period of academic reforms and economic crisis.  In [_Higher Education_](https://link.springer.com/article/10.1007/s10734-018-0288-4).
+
 Passaretta G, Barbieri P, Wolbers MHJ, Visser M. The direct effect of social origin on men’s occupational attainment over the early life course: An Italian-Dutch comparison. In [_Research in Social Stratification and Mobility_](https://www.sciencedirect.com/science/article/pii/S0276562417300859?via%3Dihub).
 
 ## 2016
