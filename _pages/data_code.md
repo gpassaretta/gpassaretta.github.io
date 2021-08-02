@@ -1,7 +1,7 @@
 
 ---
-title: "Replication files"
-permalink: /replicationfiles/
+title: "Data and Code"
+permalink: /data_code/
 author_profile: true
 ---
 
