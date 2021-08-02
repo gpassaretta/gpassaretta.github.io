@@ -1,6 +1,6 @@
 ---
 title: ""
-permalink: /research/
+permalink: /inprogress/
 author_profile: true
 ---
 
