@@ -7,4 +7,4 @@ author_profile: true
 
 Here is the the replicaton material for some of my recent papers.
 
-2021 Does Schooling Decrease Socioeconomic Inequality in Early Achievement? A Differential Exposure Approach | [_replication_](https://github.com/gpassaretta/2021_Passaretta_Skopek_DEA) |
+2021 Does Schooling Decrease Socioeconomic Inequality in Early Achievement? A Differential Exposure Approach *[_replication_](https://github.com/gpassaretta/2021_Passaretta_Skopek_DEA)*
