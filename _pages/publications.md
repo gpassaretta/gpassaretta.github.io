@@ -12,15 +12,15 @@ Passaretta G, Skopek J. Does Schooling Decrease Socioeconomic Inequality in Earl
 Skopek J, Passaretta G. Socioeconomic Inequality in Children's Achievement from Infancy to Adolescence: The Case of Germany.  In [_Social Forces_](https://academic.oup.com/sf/article/100/1/86/5924408?login=true).
 ## 2018
 Passaretta G, Triventi G, Trivellato P. Between academia and labour market – the occupational outcomes of PhD graduates in a period of academic reforms and economic crisis.  In [_Higher Education_](https://link.springer.com/article/10.1007/s10734-018-0288-4).
+Passaretta G, Barbieri P, Wolbers MHJ, Visser M. The direct effect of social origin on men’s occupational attainment over the early life course: An Italian-Dutch comparison. In [_Research in Social Stratification and Mobility_](https://www.sciencedirect.com/science/article/pii/S0276562417300859?via%3Dihub).
 
-Passaretta G, Barbieri P, Wolbers MHJ, Visser M. The direct effect of social origin on men’s occupational attainment over the early life course: An Italian-Dutch comparison. In [_Research in Social Stratification and Mobility_](https://www.sciencedirect.com/science/article/pii/S0276562417300859?via%3Dihub)
-##2016
-Barbieri P, Cutuli G, Passaretta G. Institutions and the school-to-work transition: disentangling the role of the macro-institutional context. In[_Socio-Economic Review_](https://academic.oup.com/ser/article/16/1/161/2890794)
+## 2016
+Barbieri P, Cutuli G, Passaretta G. Institutions and the school-to-work transition: disentangling the role of the macro-institutional context. In[_Socio-Economic Review_](https://academic.oup.com/ser/article/16/1/161/2890794).
 
-Passaretta G, Wolbers MHJ. Temporary employment at labour market entry in Europe: Labour market dualism, transitions to secure employment and upward mobility. In [_Economic and Industrial Democracy_](https://journals.sagepub.com/doi/full/10.1177/0143831X16652946)
-##2015
-Passaretta G, Triventi M. Work experience during higher education and post-graduation occupational outcomes: A comparative study on four European countries. In [_International Journal of Comparative Sociology_](https://journals.sagepub.com/doi/10.1177/0020715215587772)
-##2014
+Passaretta G, Wolbers MHJ. Temporary employment at labour market entry in Europe: Labour market dualism, transitions to secure employment and upward mobility. In [_Economic and Industrial Democracy_](https://journals.sagepub.com/doi/full/10.1177/0143831X16652946).
+## 2015
+Passaretta G, Triventi M. Work experience during higher education and post-graduation occupational outcomes: A comparative study on four European countries. In [_International Journal of Comparative Sociology_](https://journals.sagepub.com/doi/10.1177/0020715215587772).
+## 2014
 Passaretta G, Triventi M. Il lavoro durante gli studi universitari e gli esiti occupazionali dopo la laurea. Il caso italiano in prospettiva comparata. In [_Sociologia del lavoro_](https://www.francoangeli.it/riviste/Scheda_Rivista.aspx?IDArticolo=52659&idRivista=83) 
 
 
