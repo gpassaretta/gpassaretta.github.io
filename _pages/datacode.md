@@ -1,5 +1,5 @@
-
 ---
+layout: archive
 title: "Data and Code"
 permalink: /datacode/
 author_profile: true
