@@ -4,7 +4,7 @@ main:
   - title: "Publications"
     url: /publications/ 
     
-  - title: "Work in progress"
+  - title: "In progress"
     url: /inprogress/ 
     
   - title: "Data & Code"
