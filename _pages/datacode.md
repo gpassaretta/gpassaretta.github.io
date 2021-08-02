@@ -5,7 +5,7 @@ permalink: /datacode/
 author_profile: true
 ---
 
-In this section you can find the replicaton materials for some of my recent papers.
+Here is the the replicaton material for some of my recent papers.
 
-- ASR 2021: link
+2021. Does Schooling Decrease Socioeconomic Inequality in Early Achievement? A differential Exposure Approach. | [replication](https://github.com/gpassaretta/2021_Passaretta_Skopek_DEA)
 
