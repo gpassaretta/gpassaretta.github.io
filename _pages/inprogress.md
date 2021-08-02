@@ -12,9 +12,9 @@ author_profile: true
 
 - Do children of immigrants catch up in school? Longitudinal evidence from the UK, the Netherlands and Germany (with T van Huizen and J Skopek) – [_read more_]()
 
-- Learning in school or because of school? The causal effect of early schooling on the migrant-nativer gap in achievement (with Jan Skopek)
-
 - Social inequality and wage trajectories. A growth curve analysis of Germany and the United States (with R Grotti) – [_read more_]()
+
+- Learning in school or because of school? The causal effect of early schooling on the migrant-nativer gap in achievement (with Jan Skopek)
 
 - Die hard. The direct effect of social origin on occupational attainment among PhDs (with F Bernardi)
 
