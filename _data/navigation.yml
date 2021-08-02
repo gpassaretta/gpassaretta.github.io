@@ -1,9 +1,8 @@
 # main links links
 main:
-
+    
   - title: "Research"
     url: /research/ 
-   
 
   - title: "Teaching"
     url: /teaching/    
@@ -11,8 +10,8 @@ main:
   - title: "Publications"
     url: /publications/ 
     
-  - title: "Replication files"
-    url: /replicationfiles/
+  - title: "Data and code"
+    url: /data_code/
         
  # - title: "Blog Posts"
  #   url: /year-archive/
