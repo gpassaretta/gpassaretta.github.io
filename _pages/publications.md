@@ -8,8 +8,10 @@ author_profile: true
 # Jornal articles
 ## 2021
 Passaretta G, Skopek J. Does Schooling Decrease Socioeconomic Inequality in Early Achievement? A differential Exposure Approach. In [_American Sociological Review_](https://journals.sagepub.com/home/asr).
+
 ## 2020
 Skopek J, Passaretta G. Socioeconomic Inequality in Children's Achievement from Infancy to Adolescence: The Case of Germany.  In [_Social Forces_](https://academic.oup.com/sf/article/100/1/86/5924408?login=true).
+
 ## 2018
 Passaretta G, Triventi G, Trivellato P. Between academia and labour market – the occupational outcomes of PhD graduates in a period of academic reforms and economic crisis.  In [_Higher Education_](https://link.springer.com/article/10.1007/s10734-018-0288-4).
 
