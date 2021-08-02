@@ -8,6 +8,7 @@ author_profile: true
 # Jornal articles
 ## 2021
 Giampiero Passaretta, Jan Skopek
+
 Does Schooling Decrease Socioeconomic Ineqaulity in Early Achievement? A differential Exposure Approach. In [_American Sociological Review_](https://journals.sagepub.com/home/asr).
 
 
