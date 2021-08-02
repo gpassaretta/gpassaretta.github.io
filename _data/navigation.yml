@@ -1,17 +1,17 @@
 # main links links
 main:
-    
-  - title: "Research"
-    url: /research/ 
-
-  - title: "Teaching"
-    url: /teaching/    
-    
+      
   - title: "Publications"
     url: /publications/ 
     
+  - title: "Work in progress"
+    url: /inprogress/ 
+    
   - title: "Data & Code"
     url: /datacode/
+    
+  - title: "Teaching"
+    url: /teaching/    
         
  # - title: "Blog Posts"
  #   url: /year-archive/
