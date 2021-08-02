@@ -6,13 +6,13 @@ author_profile: true
 
 # Work in progress
 
-- To what extent is social inequality in school-age achievement determined before and during schooling? A longitudinal analysis in three European countries (with J Skopek and T van Huizen). [_read more_]() - [_working paper_](https://osf.io/preprints/socarxiv/yqt6n/)
+- To what extent is social inequality in school-age achievement determined before and during schooling? A longitudinal analysis in three European countries (with J Skopek and T van Huizen) – [_read more_]() - [_working paper_](https://osf.io/preprints/socarxiv/yqt6n/)
 
-- Inequality at the top. The gender wage gap among the educational elite in Italy (with M Triventi). [_read more_]() - [_working paper_](https://osf.io/preprints/socarxiv/updgw/)
+- Inequality at the top. The gender wage gap among the educational elite in Italy (with M Triventi) – [_read more_]() - [_working paper_](https://osf.io/preprints/socarxiv/updgw/)
 
-- Do children of immigrants catch up in school? Longitudinal evidence from the UK, the Netherlands and Germany (with T van Huizen and J Skopek). [_read more_]()
+- Do children of immigrants catch up in school? Longitudinal evidence from the UK, the Netherlands and Germany (with T van Huizen and J Skopek) – [_read more_]()
 
-- Social inequality and wage trajectories. A growth curve analysis of Germany and the United States (with R Grotti). [_read more_]()
+- Social inequality and wage trajectories. A growth curve analysis of Germany and the United States (with R Grotti) – [_read more_]()
 
 <!--
 
