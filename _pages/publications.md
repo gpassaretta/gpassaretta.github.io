@@ -7,13 +7,13 @@ author_profile: true
 
 ## Jornal articles
 
-- Passaretta G, Skopek J (2021). Does Schooling Decrease Socioeconomic Inequality in Early Achievement? A Differential Exposure Approach. In [_American Sociological Review_](https://journals.sagepub.com/home/asr).
+Passaretta G, Skopek J (2021). Does Schooling Decrease Socioeconomic Inequality in Early Achievement? A Differential Exposure Approach. In [_American Sociological Review_](https://journals.sagepub.com/home/asr).
 
-- Skopek J, Passaretta G (2020). Socioeconomic Inequality in Children's Achievement from Infancy to Adolescence: The Case of Germany.  In [_Social Forces_](https://academic.oup.com/sf/article/100/1/86/5924408?login=true).
+Skopek J, Passaretta G (2020). Socioeconomic Inequality in Children's Achievement from Infancy to Adolescence: The Case of Germany.  In [_Social Forces_](https://academic.oup.com/sf/article/100/1/86/5924408?login=true).
 
-- Passaretta G, Triventi G, Trivellato P (2018). Between academia and labour market – the occupational outcomes of PhD graduates in a period of academic reforms and economic crisis.  In [_Higher Education_](https://link.springer.com/article/10.1007/s10734-018-0288-4).
+Passaretta G, Triventi G, Trivellato P (2018). Between academia and labour market – the occupational outcomes of PhD graduates in a period of academic reforms and economic crisis.  In [_Higher Education_](https://link.springer.com/article/10.1007/s10734-018-0288-4).
 
-- Passaretta G, Barbieri P, Wolbers MHJ, Visser M (2018). The direct effect of social origin on men’s occupational attainment over the early life course: An Italian-Dutch comparison. In [_Research in Social Stratification and Mobility_](https://www.sciencedirect.com/science/article/pii/S0276562417300859?via%3Dihub).
+Passaretta G, Barbieri P, Wolbers MHJ, Visser M (2018). The direct effect of social origin on men’s occupational attainment over the early life course: An Italian-Dutch comparison. In [_Research in Social Stratification and Mobility_](https://www.sciencedirect.com/science/article/pii/S0276562417300859?via%3Dihub).
 
 Barbieri P, Cutuli G, Passaretta G (2016). Institutions and the school-to-work transition: disentangling the role of the macro-institutional context. In [_Socio-Economic Review_](https://academic.oup.com/ser/article/16/1/161/2890794).
 
