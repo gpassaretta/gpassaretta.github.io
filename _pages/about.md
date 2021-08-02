@@ -12,7 +12,7 @@ redirect_from:
 About
 ======
 
-Giampiero Passaretta is a Research Fellow at the European University Institute. After gaining his PhD from the University of Trento (Italy), he has worked as Postdoctoral Researcher at the Trinity College Dublin (Ireland). He is a member of the Centre for Social Inequality Studies (CSIS), the Trinity Research in Childhood Centre (TRICC), and the Comparative Life Course & Inequality research Centre (CLIC). 
+Giampiero Passaretta is a Research Fellow at the European University Institute. After gaining his PhD from the _University of Trento_ (Italy), he has worked as Postdoctoral Researcher at the _Trinity College Dublin_ (Ireland). He is a member of the Centre for [Social Inequality Studies (CSIS)](https://r.unitn.it/en/soc/csis), the [Trinity Research in Childhood Centre (TRICC)](https://r.unitn.it/en/soc/csis), and the [Comparative Life Course & Inequality research Centre (CLIC)](https://r.unitn.it/en/soc/csis). 
 
 His research focuses on the formation and the evolution of education and labour market inequalities over the life course. Recently, he developed a specific interest on the causal effect of schooling for learning inequality and social disparities in the process of occupational attainment of the educational elites. 
 
