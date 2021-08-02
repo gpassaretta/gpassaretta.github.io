@@ -11,28 +11,28 @@ Passaretta G, Skopek J. Does Schooling Decrease Socioeconomic Inequality in Earl
 ## 2020
 Skopek J, Passaretta G. Socioeconomic Inequality in Children's Achievement from Infancy to Adolescence: The Case of Germany.  In [_Social Forces_](https://academic.oup.com/sf/article/100/1/86/5924408?login=true).
 ## 2018
-Passaretta G, Triventi G, Trivellato P. Socioeconomic Inequality in Children's Achievement from Infancy to Adolescence: The Case of Germany.  In [_Social Forces_](https://academic.oup.com/sf/article/100/1/86/5924408?login=true).
+Passaretta G, Triventi G, Trivellato P. Between academia and labour market – the occupational outcomes of PhD graduates in a period of academic reforms and economic crisis.  In [_Higher Education_](https://link.springer.com/article/10.1007/s10734-018-0288-4).
+Passaretta G, Barbieri P, Wolbers MHJ, Visser M. The direct effect of social origin on men’s occupational attainment over the early life course: An Italian-Dutch comparison. In [_Research in Social Stratification and Mobility_](https://www.sciencedirect.com/science/article/pii/S0276562417300859?via%3Dihub)
+##2016
+Barbieri P, Cutuli G, Passaretta G. Institutions and the school-to-work transition: disentangling the role of the macro-institutional context. In[_Socio-Economic Review_](https://academic.oup.com/ser/article/16/1/161/2890794)
+Passaregga G, Wolbers MHJ. Temporary employment at labour market entry in Europe: Labour market dualism, transitions to secure employment and upward mobility. In [_Economic and Industrial Democracy_](https://journals.sagepub.com/doi/full/10.1177/0143831X16652946)
+##2015
+Passaretta G, Triventi M. Work experience during higher education and post-graduation occupational outcomes: A comparative study on four European countries. In [_International Journal of Comparative Sociology_](https://journals.sagepub.com/doi/10.1177/0020715215587772)
+##2014
+Passaretta G, Triventi M. Il lavoro durante gli studi universitari e gli esiti occupazionali dopo la laurea. Il caso italiano in prospettiva comparata. In [_Sociologia del lavoro_](https://www.francoangeli.it/riviste/Scheda_Rivista.aspx?IDArticolo=52659&idRivista=83) 
 
 
-<!--
-PAPERS IN REFEREED JOURNALS (ISI WITH IMPACT FACTOR)
-2021 	Does schooling decrease socioeconomic inequality in early achievement? A differential exposure approach. Accepted for publication in American Sociological Review (with J Skopek) [paper]
+<!-- 
 
-2020	Socioeconomic inequality in children’s achievement from infancy to adolescence: The case of Germany. Social Forces, 100(1), pp. 86–112 (with J Skopek) [paper]
 
-2018	Between academia and labour market – the occupational outcomes of PhD graduates in a period of academic reforms and economic crisis. Higher Education, 77(3), pp. 541–559 (with P Trivellato and M Triventi) [paper]
 
-2018 	The direct effect of social origin on men’s occupational attainment over the early life course: An Italian-Dutch comparison. Research in Social Stratification and Mobility, 56, pp. 1–11 (with P Barbieri, MHJ Wolbers and M Visser) [paper]
 
-2016	Institutions and the school-to-work transition: disentangling the role of the macro-institutional context. Socio-Economic Review, 16(1), pp. 161–183 (with P. Barbieri and G. Cutuli) [paper] 
 
-2016	Temporary employment at labour market entry in Europe: Labour market dualism, transitions to secure employment and upward mobility. Economic and Industrial Democracy, 40(2), pp. 382–408 (with M.H.J. Wolbers) [paper]
 
-2015		Work experience during higher education and post-graduation occupational outcomes: A comparative study on four European countries. Published in International Journal of Comparative Sociology, 56(3–4), pp. 232–253 (with M Triventi) [paper]
-
+2015		
 
 PAPERS IN OTHER REFEREED JOURNALS 
-2014	Il lavoro durante gli studi universitari e gli esiti occupazionali dopo la laurea. Il caso italiano in prospettiva comparata. Sociologia del lavoro, 136, pp. 203–220 (with M Triventi) [paper]
+2014	
 
 
 BOOKS
