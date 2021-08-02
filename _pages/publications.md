@@ -5,14 +5,14 @@ permalink: /publications/
 author_profile: true
 ---
 
-# Jornal articles
-## 2021
+_# Jornal articles_
+_## 2021_
 Giampiero Passaretta, Jan Skopek. Does Schooling Decrease Socioeconomic Ineqaulity in Early Achievement? A differential Exposure Approach. In [_American Sociological Review_](https://journals.sagepub.com/home/asr).
-## 2020
+_## 2020_
 Jan Skopek, Giampiero Passaretta. Socioeconomic Inequality in Children's Achievement from Infancy to Adolescence: The Case of Germany  In [_Social Forces_](https://academic.oup.com/sf/article/100/1/86/5924408?login=true).
 
 
-# Reports and others
+_# Reports and others_
 
 
 
