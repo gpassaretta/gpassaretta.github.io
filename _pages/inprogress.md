@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 # Research in progress
-To what extent is social inequality in school-age achievement determined before and during schooling? A longitudinal analysis in three European countries (with J Skopek and T van Huizen) – [_working paper_](https://osf.io/preprints/socarxiv/yqt6n/)
+- To what extent is social inequality in school-age achievement determined before and during schooling? A longitudinal analysis in three European countries (with J Skopek and T van Huizen) – [_working paper_](https://osf.io/preprints/socarxiv/yqt6n/)
 <details>
 <summary>Read more</summary>
 </details>
