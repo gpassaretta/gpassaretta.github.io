@@ -6,6 +6,12 @@ author_profile: true
 
 # Research in progress
 
+<details>
+<summary>How do I dropdown?</summary>
+<br>
+This is how you dropdown.
+</details>
+
 - To what extent is social inequality in school-age achievement determined before and during schooling? A longitudinal analysis in three European countries (with J Skopek and T van Huizen) – [_read more_]() – [_working paper_](https://osf.io/preprints/socarxiv/yqt6n/)
 
 - Inequality at the top. The gender wage gap among the Italian educational elites (with M Triventi) – [_read more_]() – [_working paper_](https://osf.io/preprints/socarxiv/updgw/)
