@@ -26,32 +26,29 @@ Do children of immigrants catch up in school? Longitudinal evidence from the UK,
 Social inequality and wage trajectories. A growth curve analysis of Germany and the United States (with R Grotti) – _dratfing_
 <details>
 <summary>Read more</summary>
+  
 </details>
 <br>
 Learning in school or because of school? The causal effect of early schooling on the migrant-nativer gap in achievement (with Jan Skopek) - _drafting_
 <details>
 <summary>Read more</summary>
+  
 </details>
 <br>
 Die hard. The direct effect of social origin on occupational attainment among PhDs (with F Bernardi) – _drafting_
 <details>
 <summary>Read more</summary>
+  
 </details>
 <br>
 Does family socioeconomic status compensate for an early entry into school life? Evidence from Germany (with M Espadafor) - _drafting_
 <details>
 <summary>Read more</summary>
+  
 </details>
 <br>
 
 
 <!--
-
-
-
-
-
-L
-
 
 -->
