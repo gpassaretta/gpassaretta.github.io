@@ -6,8 +6,7 @@ author_profile: true
 
 # Research in progress
 To what extent is social inequality in school-age achievement determined before and during schooling? (with J Skopek and T van Huizen) – [_working paper_](https://osf.io/preprints/socarxiv/yqt6n/)
-<details>
-<summary>Read more</summary>
+<details> <summary>Read more</summary>
 We estimate the degree to which socioeconomic status (SES) gaps in children’s language skills observed in primary schooling are already determined before children enter school in Germany, the Netherlands, and the United Kingdom. We use representative and longitudinal cohort data and apply instrumental variable estimation to deal with measurement error in test scores. Around 60–80 per cent of SES gaps in language at the end of primary school are attributable to gaps settled before formal schooling, while at most 20–40 per cent is attributable to SES operating during the school years. We also show that ignoring measurement error results in a major overestimation of the role of SES during schooling. Our findings suggest that the most effective strategy for reducing social inequality in school-age achievement is reducing inequality before school life starts.
 </details>
 <br>
