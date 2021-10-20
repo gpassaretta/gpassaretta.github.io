@@ -23,7 +23,6 @@ Socioeconomic disparities in early language development in two Norwegian samples
 Socioeconomic disparities in early language development are commonly observed and may have lasting effects perpetuating social disadvantage. The aim of this study was to investigate when social gaps in language problems arise, how they develop across early childhood, and how they change across the first years of schooling. We address this question in two large longitudinal Norwegian datasets, the Behavior Outlook Norwegian Developmental Study (BONDS) and the Norwegian Mother, Father and Child Cohort Study (MoBa). Despite some slight differences across the two samples, we found that children from higher social background are less likely to have language difficulties starting from age 18 months and throughout their early childhood up to age 8 (grade 2). Moreover, while early language problems are strongly predictive of later problems, maternal education made an additional contribution to explaining language difficulties measured by one of our latent language outcomes at the beginning of school life. This social inequality in language development arises early, even in countries like Norway, a wealthy social democracy with low unemployment and one of the most egalitarian countries in Europe.
 </details>
 <br>
-
 Do children of immigrants catch up in school? Longitudinal evidence from the UK, the Netherlands and Germany (with T van Huizen and J Skopek) - _on request_
 <details>
 <summary>Read more</summary>
