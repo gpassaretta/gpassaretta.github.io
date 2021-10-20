@@ -9,7 +9,6 @@ author_profile: true
 
 ### A.Y. 2016-2017
 •	Lecturer in "Introduction to STATA" (PhD-level). Faculty of Sociology, University of Trento.
-
 •	Lecturer in "Quantitative methods" (MA-level). Faculty of Sociology, University of Trento.
 
 ### A.Y. 2014-2015
