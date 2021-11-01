@@ -7,7 +7,7 @@ author_profile: true
 
 ## Jornal articles
 
-Passaretta G, Skopek J (2021). Does Schooling Decrease Socioeconomic Inequality in Early Achievement? A Differential Exposure Approach. In [_American Sociological Review_](https://journals.sagepub.com/home/asr).
+Passaretta G, Skopek J (2021). Does Schooling Decrease Socioeconomic Inequality in Early Achievement? A Differential Exposure Approach. In [_American Sociological Review_](https://journals.sagepub.com/doi/full/10.1177/00031224211049188).
 
 Skopek J, Passaretta G (2020). Socioeconomic Inequality in Children's Achievement from Infancy to Adolescence: The Case of Germany.  In [_Social Forces_](https://academic.oup.com/sf/article/100/1/86/5924408?login=true).
 
