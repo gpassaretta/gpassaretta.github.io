@@ -18,5 +18,3 @@ His research focuses on the formation and the evolution of education and labour 
 
 
 Passaretta's works have been published in academic journals like _American Sociological Review_, _Social Forces_ and _Socio-Economic Review_. His recent research on the evolution of socioeconomic inequality in children's achievement has been featured in major press outlets, like _Die Zeit_. 
-
-Sometimes He cycles <a href="https://www.strava.com/athletes/25103234"><img src="logo.svg"></a>
