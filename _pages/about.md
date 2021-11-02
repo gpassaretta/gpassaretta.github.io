@@ -22,3 +22,5 @@ Passaretta's works have been published in academic journals like _American Socio
 Sometimes He cycles
 
 <a href="https://www.strava.com/athletes/25103234"><img src="24.png"></a>
+
+<a href="https://www.strava.com/athletes/25103234"><img src="strava logo mark.svg"></a>
