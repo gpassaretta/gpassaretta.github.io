@@ -18,3 +18,11 @@ His research focuses on the formation and the evolution of education and labour 
 
 
 Passaretta's works have been published in academic journals like _American Sociological Review_, _Social Forces_ and _Socio-Economic Review_. His recent research on the evolution of socioeconomic inequality in children's achievement has been featured in major press outlets, like _Die Zeit_. 
+
+Sometimes I cycle <style>
+  .strava-badge- { display: inline-block; height: 32px; }
+  .strava-badge- img { visibility: hidden; height: 32px; }
+  .strava-badge-:hover { background-position: 0 -47px; }
+  .strava-badge-follow { height: 32px; width: 32px; background: url(//badges.strava.com/echelon-sprite-32.png) no-repeat 0 0; }
+</style>
+<a href="http://strava.com/athletes/25103234/badge" class="strava-badge- strava-badge-follow" target="_blank"><img src="//badges.strava.com/echelon-sprite-32.png" alt="Strava" /></a>
