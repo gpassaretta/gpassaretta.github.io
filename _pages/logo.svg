@@ -6,13 +6,13 @@
 					display:inline-block;
 					background-color:#FC5200;
 					color:#fff;
-					padding:10px 10px 5px 30px;
+					padding:5px 10px 5px 30px;
 					font-size:11px;
 					font-family:Helvetica, Arial, sans-serif;
 					white-space:nowrap;
 					text-decoration:none;
 					background-repeat:no-repeat;
-					background-position:10px center;
+					background-position:100px center;
 					border-radius:3px;
 					background-image:url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAATCAYAAACgADyUAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAALEgAACxIB0t1+/AAAABx0RVh0U29mdHdhcmUAQWRvYmUgRmlyZXdvcmtzIENTNui8sowAAAAUdEVYdENyZWF0aW9uIFRpbWUANi80LzE0kRMgQQAAAN1JREFUOI2VkbENAjEMRb/p6GCDk1iAhhKJil2YgYYBGOJaVqDhJEpuBcQGiI7yUeCgEHwHuIkc/+cXKVJQwAYYdcwEhIOKZ23+BWsHb5E1BDMbXdYusC7AG1D1gsCUuOpvYJOFLwVchSCwKIPAIbKWYFOGgmXTNzCyZdtza1OCH7ae71kk2Mp/8sFE0srbnZmd/H4taSypHUSgmZ0ltd4uHZo5JEn7EExDP8cOLb1vJV07QTO7Jqs/9WWTpD7jKwRsk80X9oMeOnp7z57/1Zisd0nHZPu5gDkwzHo9ADWCdl4uXrJLAAAAAElFTkSuQmCC')
 				}
