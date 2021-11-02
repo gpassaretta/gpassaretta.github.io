@@ -26,4 +26,5 @@ Sometimes He cycles
   .strava-badge-:hover { background-position: 0 -37px; }
   .strava-badge-follow { height: 24px; width: 24px; background: url(//badges.strava.com/echelon-sprite-24.png) no-repeat 0 0; }
 </style>
+
 <a href="http://strava.com/athletes/25103234/badge" class="strava-badge- strava-badge-follow" target="_blank"><img src="//badges.strava.com/echelon-sprite-24.png" alt="Strava" /></a>
