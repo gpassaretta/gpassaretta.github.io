@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Giampiero Passaretta"
 title_separator          : "-"
 name                     : &name "Giampiero Passaretta"
-description              : &description "Research Fellow at the European University Institute (Florence, Italy)"
+description              : &description "Researcher at Stockholm University (Sweden)"
 url                      : https://gpassaretta.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "gpassaretta/gpassaretta.github.io"
@@ -83,10 +83,10 @@ author:
   name             : "Giampiero Passaretta"
   avatar           : "pic.png"
   bio              : "Social Scientist"
-  location         : "Florence, Italy"
+  location         : "Stockholm, Sweden – Bologna, Italy"
   employer         :
   googlescholar    : #""
-  email            : "giampiero.passaretta@eui.eu"
+  email            : "giampiero.passaretta@sociology.su.se"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
