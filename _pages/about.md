@@ -12,7 +12,7 @@ redirect_from:
 About
 ======
 
-Giampiero Passaretta is a Research Fellow at [Stockholm University] (https://www.su.se/department-of-sociology/) and [CIDER](https://www.leibniz-bildung.de/en/cider/). He also worked as a Postdoctoral Researcher at the _Trinity College Dublin_ and the _European University Institute_. He is a member of the [Centre for Social Inequality Studies (CSIS)](https://r.unitn.it/en/soc/csis), the [Trinity Research in Childhood Centre (TRiCC)](https://www.tcd.ie/tricc/), and the [Comparative Life course & Inequality Research Centre (CLIC)](https://www.eui.eu/Projects/CLIC)
+Giampiero Passaretta is a Research Fellow at [Stockholm University](https://www.su.se/department-of-sociology/) and [CIDER](https://www.leibniz-bildung.de/en/cider/). He also worked as a Postdoctoral Researcher at the _Trinity College Dublin_ and the _European University Institute_. He is a member of the [Centre for Social Inequality Studies (CSIS)](https://r.unitn.it/en/soc/csis), the [Trinity Research in Childhood Centre (TRiCC)](https://www.tcd.ie/tricc/), and the [Comparative Life course & Inequality Research Centre (CLIC)](https://www.eui.eu/Projects/CLIC)
 
 His research focuses on the formation and the evolution of education and labour market inequalities over the life course. Recently, he developed a specific interest in the causal effect of schooling on learning inequality, and in the disparities in labour market attainment of educational elites.  
 
