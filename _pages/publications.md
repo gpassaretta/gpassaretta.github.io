@@ -7,6 +7,11 @@ author_profile: true
 
 ## Jornal articles
 
+Passaretta 
+Passaretta G, Skopek J, van Huizen T (Forthcoming). Is social inequality in school-age achievement generated before or during schooling? A European perspective. In _European Sociological Review_.
+
+Ribeiro L, Zachrisson HD, Nærde A, Wang MV, Brandlistuen RE, Passaretta G (Forthcominbg). Socioeconomic disparities in early language development in two Norwegian samples. In _Applied Developmental Science_.
+
 Passaretta G, Skopek J (2021). Does Schooling Decrease Socioeconomic Inequality in Early Achievement? A Differential Exposure Approach. In [_American Sociological Review_](https://journals.sagepub.com/doi/full/10.1177/00031224211049188).
 
 Skopek J, Passaretta G (2020). Socioeconomic Inequality in Children's Achievement from Infancy to Adolescence: The Case of Germany.  In [_Social Forces_](https://academic.oup.com/sf/article/100/1/86/5924408?login=true).
