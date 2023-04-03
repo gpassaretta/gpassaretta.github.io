@@ -7,9 +7,13 @@ author_profile: true
 
 ## Jornal articles
 
-Passaretta G, Skopek J, van Huizen T (Forthcoming). Is social inequality in school-age achievement generated before or during schooling? A European perspective. In [_European Sociological Review_](https://academic.oup.com/esr).
+Cozzani M, Fallesen P, Passaretta G, Harkonen J, Bernardi G (2023). The consequences of the COVID19 pandemic for fertility and birth outcomes: Evidence from Spanish birth registers. In [_Population and Developpment Review_](https://onlinelibrary.wiley.com/journal/17284457)
 
-Ribeiro L, Zachrisson HD, Nærde A, Wang MV, Brandlistuen RE, Passaretta G (Forthcoming). Socioeconomic disparities in early language development in two Norwegian samples. In [_Applied Developmental Science_](https://www.tandfonline.com/toc/hads20/current).
+Passaretta G, Sauer P, Schwabe U, Wessling K (2023). The role of overeducation and horizontal mismatch for gender inequalities in labor income of higher education graduates in Europe. In [_Research in Comparative and International Education_](https://journals.sagepub.com/home/rci)
+
+Passaretta G, Skopek J, van Huizen T (2022). Is social inequality in school-age achievement generated before or during schooling? A European perspective. In [_European Sociological Review_](https://academic.oup.com/esr).
+
+Ribeiro L, Zachrisson HD, Nærde A, Wang MV, Brandlistuen RE, Passaretta G (2022). Socioeconomic disparities in early language development in two Norwegian samples. In [_Applied Developmental Science_](https://www.tandfonline.com/toc/hads20/current).
 
 Passaretta G, Skopek J (2021). Does Schooling Decrease Socioeconomic Inequality in Early Achievement? A Differential Exposure Approach. In [_American Sociological Review_](https://journals.sagepub.com/doi/full/10.1177/00031224211049188).
 
