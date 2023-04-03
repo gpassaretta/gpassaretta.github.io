@@ -12,9 +12,8 @@ redirect_from:
 About
 ======
 
-Giampiero Passaretta is a Research Fellow at [Stockholm University](https://www.su.se/department-of-sociology/) and [CIDER](https://www.leibniz-bildung.de/en/cider/). He also worked as a Postdoctoral Researcher at the _Trinity College Dublin_ and the _European University Institute_. He is a member of the [Comparative Life course & Inequality Research Centre (CLIC)](https://www.eui.eu/Projects/CLIC) and the [Stockholm University Demography Unit (SUDA)](https://www.suda.su.se).
+Giampiero Passaretta is Assistant Professor at the [Department of Political and Social Sciences](https://www.upf.edu/web/universitat/-/departament-de-ciencies-politiques-i-socials) at [Universitat Pompeu Fabra](https://www.upf.edu), Spain. Previously, he held research positions at _Trinity College Dublin_, _European University Institute_, and _Stockholm University_. He is currently a member of the [Centre for Interdisciplinary Educational Research (CIDER)](https://www.leibniz-bildung.de/en/cider/), the [Comparative Life course & Inequality Research Centre (CLIC)](https://www.eui.eu/Projects/CLIC), and the [Stockholm University Demography Unit (SUDA)](https://www.suda.su.se).
 
 His research focuses on the formation and the evolution of education and labour market inequalities over the life course. Recently, he developed a specific interest in the causal effect of schooling on learning inequality, and in the disparities in labour market attainment of educational elites.  
 
-
-Passaretta's works have been published in academic journals like _American Sociological Review_, _Social Forces_ and _Socio-Economic Review_. His recent research on the evolution of socioeconomic inequality in children's achievement has been featured in major press outlets, like _Die Zeit_. 
+Passaretta's works have been published in leading academic journals like American Sociological Review, Social Forces, and Population and Development Review, and featured in major press outlets. His recent research on the role of schooling for inequality in learning won the Best Article Award from the Leibniz Institute for Educational Trajectories in Germany (LifBi) and the Italian Society of Economic Sociology (SISEC).
