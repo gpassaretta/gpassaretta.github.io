@@ -4,6 +4,7 @@ title: "Contact"
 permalink: /contact/
 author_profile: true
 ---
-Department of Political and Social Sciences, European University Institute<br>
-Via dei Roccettini, 9, I-50014 San Domenico di Fiesole (FI)<br>
-Email: giampiero [dot] passaretta [at] eui [dot] eu
+Department of Political and Social Sciences, Universitat Pompeu Fabra<br>
+Jaume I building (Ciutadella campus) 
+Ramon Trias Fargas, 25-27, 08005 Barcelona<br>
+Email: giampiero [dot] passaretta [at] upf [dot] edu
