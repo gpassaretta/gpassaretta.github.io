@@ -31,13 +31,11 @@ Barbieri P, Cutuli G, **Passaretta** G (2016). Institutions and the school-to-wo
 
 **Passaretta G**, Triventi M (2014). Il lavoro durante gli studi universitari e gli esiti occupazionali dopo la laurea. Il caso italiano in prospettiva comparata. In [_Sociologia del lavoro_](https://www.francoangeli.it/riviste/Scheda_Rivista.aspx?IDArticolo=52659&idRivista=83) 
 
-
 ## Book chapters
 
 **Passaretta G**, Gil-Hernandez C (2023). The early roots of the digital divide: Socioeconomic inequality in ICT literacy at age 8–15. In Jan Skopek (eds), Research Handbook of Digital Sociology, Edward Elgar: Cheltenham, UK.
 
 Triventi M, **Passaretta G** (2023). The role of education for social mobility. In J Blanden, J Erola, E Kilpi-Jakonen, and L Macmillan (eds), Research Handbook on Intergenerational Inequality. Edward Elgar: Cheltenham, UK.
- 
  
 ## Reports and other writings
 
