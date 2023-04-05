@@ -7,7 +7,7 @@ author_profile: true
 
 ## Jornal articles
 
-Cozzani M, Fallesen P, **Passaretta G**, Harkonen J, Bernardi G (2023). The consequences of the COVID19 pandemic for fertility and birth outcomes: Evidence from Spanish birth registers. In [_Population and Development Review_](https://onlinelibrary.wiley.com/journal/17284457).
+Cozzani M, Fallesen P, **Passaretta G**, Harkonen J, Bernardi F (2023). The consequences of the COVID19 pandemic for fertility and birth outcomes: Evidence from Spanish birth registers. In [_Population and Development Review_](https://onlinelibrary.wiley.com/journal/17284457).
 
 **Passaretta G**, Sauer P, Schwabe U, Wessling K (2023). The role of overeducation and horizontal mismatch for gender inequalities in labor income of higher education graduates in Europe. In [_Research in Comparative and International Education_](https://journals.sagepub.com/home/rci).
 
