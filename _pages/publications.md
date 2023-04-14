@@ -7,7 +7,7 @@ author_profile: true
 
 ## Jornal articles
 
-**Passaretta G**, Triventi M (2023). Inequality at the top. The gender earnings gap among the Italian educational elite. In [Research in Social Stratification and Mobility](https://www.sciencedirect.com/journal/research-in-social-stratification-and-mobility)
+**Passaretta G**, Triventi M (2023). Inequality at the top. The gender earnings gap among the Italian educational elite. In [Research in Social Stratification and Mobility](https://www.sciencedirect.com/science/article/pii/S0276562423000409)
 
 Cozzani M, Fallesen P, **Passaretta G**, Harkonen J, Bernardi F (2023). The consequences of the COVID19 pandemic for fertility and birth outcomes: Evidence from Spanish birth registers. In [_Population and Development Review_](https://onlinelibrary.wiley.com/journal/17284457).
 
