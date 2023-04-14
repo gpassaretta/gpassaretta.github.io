@@ -31,7 +31,7 @@ Barbieri P, Cutuli G, **Passaretta** G (2016). Institutions and the school-to-wo
 
 **Passaretta G**, Triventi M (2015). Work experience during higher education and post-graduation occupational outcomes: A comparative study on four European countries. In [_International Journal of Comparative Sociology_](https://journals.sagepub.com/doi/10.1177/0020715215587772).
 
-**Passaretta G**, Triventi M (2014). Il lavoro durante gli studi universitari e gli esiti occupazionali dopo la laurea. Il caso italiano in prospettiva comparata. In [_Sociologia del lavoro_](https://www.francoangeli.it/riviste/Scheda_Rivista.aspx?IDArticolo=52659&idRivista=83) 
+**Passaretta G**, Triventi M (2014). Il lavoro durante gli studi universitari e gli esiti occupazionali dopo la laurea. Il caso italiano in prospettiva comparata. In [_Sociologia del lavoro_](https://www.francoangeli.it/riviste/Scheda_Rivista.aspx?IDArticolo=52659&idRivista=83).
 
 ## Book chapters
 
