@@ -12,7 +12,7 @@ redirect_from:
 About
 ======
 
-Giampiero Passaretta is Assistant Professor at the [Department of Political and Social Sciences](https://www.upf.edu/web/universitat/-/departament-de-ciencies-politiques-i-socials) at [Universitat Pompeu Fabra](https://www.upf.edu) (Spain). Previously, he held research positions at _Trinity College Dublin_, _European University Institute_ _Stockholm University_, and was a member of the [Centre for Interdisciplinary Educational Research (CIDER)](https://www.leibniz-bildung.de/en/cider/).
+Giampiero Passaretta is Assistant Professor at the [Department of Political and Social Sciences](https://www.upf.edu/web/universitat/-/departament-de-ciencies-politiques-i-socials) at [Universitat Pompeu Fabra](https://www.upf.edu) (Spain). Previously, he held research positions at _Trinity College Dublin_, _European University Institute_, and _Stockholm University. Currently, he is the director of the [Research Master in Sociology and Demography](https://www.upf.edu/web/mastersociologydemography)at Univesitat Pompeu Fabra.
 
 His research focuses on the formation and the evolution of education and labour market inequalities in Western societies . Recently, he developed a specific interest in the causal effect of schooling on learning inequality, and in the disparities in labour market attainment of the educational elite.  
 
