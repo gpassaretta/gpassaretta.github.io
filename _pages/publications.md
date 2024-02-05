@@ -8,9 +8,9 @@ author_profile: true
 ## Jornal articles
 
 Grotti R, **Passaretta G** (2023). Intragenerational wage mobility and social disadvantage: A comparative
-study of West Germany and the United States. [_Research in Social Stratification and Mobility_](https://www.sciencedirect.com/science/article/pii/S0276562423000872) 
+study of West Germany and the United States. [_Research in Social Stratification and Mobility_](https://www.sciencedirect.com/science/article/pii/S0276562423000872).
 
-**Passaretta G**, Triventi M (2023). Inequality at the top. The gender earnings gap among the Italian educational elite. In [_Research in Social Stratification and Mobility_](https://www.sciencedirect.com/science/article/pii/S0276562423000409)
+**Passaretta G**, Triventi M (2023). Inequality at the top. The gender earnings gap among the Italian educational elite. In [_Research in Social Stratification and Mobility_](https://www.sciencedirect.com/science/article/pii/S0276562423000409).
 
 Cozzani M, Fallesen P, **Passaretta G**, Harkonen J, Bernardi F (2023). The consequences of the COVID19 pandemic for fertility and birth outcomes: Evidence from Spanish birth registers. In [_Population and Development Review_](https://onlinelibrary.wiley.com/journal/17284457).
 
