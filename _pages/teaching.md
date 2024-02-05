@@ -3,6 +3,11 @@ title: ""
 permalink: /teaching/
 author_profile: true
 ---
+### A.Y. 2023-2024
+• Lecturer in "Techniques of Statistical Analysis I". Research Master in _Sociology and Demography_. Department of Social and Political Sciences, Universitat Pompeu Fabra.<br/>
+• Lecturer in "Analysis of Social Inequalities". Research Master in _Sociology and Demography_. Department of Social and Political Sciences, Universitat Pompeu Fabra.
+• Lecturer in "Analysis of Social Inequalities". Bachelor degree in _Political and Administration Sciences_. Department of Social and Political Sciences, Universitat Pompeu Fabra.
+
 ### A.Y. 2022-2023
 • Lecturer in "Techniques of Statistical Analysis I". Research Master in _Sociology and Demography_. Department of Social and Political Sciences, Universitat Pompeu Fabra.<br/>
 • Lecturer in "Analysis of Social Inequalities". Research Master in _Sociology and Demography_. Department of Social and Political Sciences, Universitat Pompeu Fabra.
