@@ -5,10 +5,6 @@ author_profile: true
 ---
 
 # Research in progress
-Inequality at the top. The gender wage gap among the Italian educational elites (with M Triventi) – [_WP_](https://osf.io/preprints/socarxiv/updgw/)
-<details> <summary>Read more</summary>
-Does a gender earnings gap exist at the top of the educational distribution? Based on population data on two recent cohorts of PhD graduates in Italy, we find that women’s monthly earnings are on average 16% lower than men’s after 5–6 years in the labor market. The gender earnings gap is even wider at the bottom and top of the earnings distribution, reaching approximately 22% and 19%, respectively. Educational pathways before and during PhD studies, occupational characteristics, and family situation explain almost half of women’s average penalty and working hours alone one-fifth of it. The strongest penalties at the bottom and top of the earnings distribution remain largely unexplained.
-</details> <br>
 Learning in school or because of school? The causal effect of early schooling on the migrant-native gap in achievement (with J Skopek) - [_WP_](https://osf.io/preprints/socarxiv/s7ryh/)
 <details>
 <summary>Read more</summary>
