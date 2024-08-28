@@ -5,12 +5,6 @@ author_profile: true
 ---
 
 # Research in progress
-Learning in school or because of school? The causal effect of early schooling on the migrant-native gap in achievement (with J Skopek) - [_WP_](https://osf.io/preprints/socarxiv/s7ryh/)
-<details>
-<summary>Read more</summary>
-Are schools engines of integration? Our study examines the learning outcomes of first-grade students from immigrant versus native families in Germany. We use a differential exposure approach to decompose learning over the school year into two causally distinct components: learning by exposure to schooling (school factors) a vis learning by being older at test (non-school factors). Data came from the nationally representative National Educational Panel Study. Our results demonstrate the importance of school exposure for learning but indicate no support for the idea that schools reduce migration-related inequality in achievements. Children from non-western immigrants, who experiences the largest penalties, progress in learning at lower rates compared to other immigrant groups. Non-westerners’ decelerated learning is entirely explained by the low benefits of schooling. We conclude that German primary schools do not work as engines of integration because immigrant groups with the largest educational disadvantage benefit the least from school exposure.
-</details>
-<br>
 Do children of immigrants catch up in school? Longitudinal evidence from the UK, the Netherlands and Germany (with T van Huizen and J Skopek) - _on request_
 <details>
 <summary>Read more</summary>
