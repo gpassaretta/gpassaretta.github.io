@@ -10,7 +10,7 @@ author_profile: true
 **Passaretta G**, Skopek J (2024). The role of schooling in equalizing achievement disparity by migrant background. Accepted for publication in [_Sociology of Education_](https://osf.io/preprints/socarxiv/s7ryh/).
 
 Grotti R, **Passaretta G** (2023). Intragenerational wage mobility and social disadvantage: A comparative
-study of West Germany and the United States. [_Research in Social Stratification and Mobility_](https://www.sciencedirect.com/science/article/pii/S0276562423000872).
+study of West Germany and the United States. In [_Research in Social Stratification and Mobility_](https://www.sciencedirect.com/science/article/pii/S0276562423000872).
 
 **Passaretta G**, Triventi M (2023). Inequality at the top. The gender earnings gap among the Italian educational elite. In [_Research in Social Stratification and Mobility_](https://www.sciencedirect.com/science/article/pii/S0276562423000409).
 
