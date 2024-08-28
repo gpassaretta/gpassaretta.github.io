@@ -7,6 +7,8 @@ author_profile: true
 
 ## Jornal articles
 
+**Passaretta G**, Skopek J (2024). The role of schooling in equalizing achievement disparity by migrant background. Accepted for publication in [_Sociology of Education_](https://www.sciencedirect.com/science/article/pii/S0276562423000872).
+
 Grotti R, **Passaretta G** (2023). Intragenerational wage mobility and social disadvantage: A comparative
 study of West Germany and the United States. [_Research in Social Stratification and Mobility_](https://www.sciencedirect.com/science/article/pii/S0276562423000872).
 
